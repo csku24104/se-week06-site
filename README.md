@@ -1,3 +1,2 @@
 # se-week06-site
-hello world
-
+hi! hello world!
